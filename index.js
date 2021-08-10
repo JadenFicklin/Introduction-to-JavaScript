@@ -50,7 +50,9 @@ Do the following:
 
    HINT: look up the Number method
 */
-
+let x = "1999";
+Number(x);
+console.log(x);
 /*
 Task 1d - Multiply
  
