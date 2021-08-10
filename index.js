@@ -33,7 +33,13 @@ Do the following:
 
    HINT: no function required
 */
-
+let myAge = 22;
+let herAge = 20;
+console.log(myAge);
+if (herAge > 10) {
+  myAge = 5;
+  console.log(myAge);
+}
 /*
 Task 1c - Convert Strings to Numbers
 
